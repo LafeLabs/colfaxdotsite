@@ -1,3 +1,27 @@
+# COLFAX.SITE
+
+SELF-REPLICATING WEB PAGE MADE OF TRASH
+
+![](https://raw.githubusercontent.com/LafeLabs/colfaxdotsite/main/trashmagic/sign1.png)
+
+
+![](https://raw.githubusercontent.com/LafeLabs/colfaxdotsite/main/trashmagic/sign-above-below.png)
+
+
+![](https://raw.githubusercontent.com/LafeLabs/colfaxdotsite/main/trashmagic/square1.png)
+
+
+![](https://raw.githubusercontent.com/LafeLabs/colfaxdotsite/main/trashmagic/square2.png)
+
+
+![](https://raw.githubusercontent.com/LafeLabs/colfaxdotsite/main/trashmagic/flag1.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/colfaxdotsite/main/trashmagic/flag2.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/colfaxdotsite/main/trashmagic/flag3.png)
+
+
+
 # [Trash Magic Squares](https://github.com/lafelabs/squares)
 
 ## Squares: As Above, so below.
