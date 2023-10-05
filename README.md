@@ -20,7 +20,9 @@ SELF-REPLICATING WEB PAGE MADE OF TRASH
 
 ![](https://raw.githubusercontent.com/LafeLabs/colfaxdotsite/main/trashmagic/flag3.png)
 
+![](https://raw.githubusercontent.com/LafeLabs/colfaxdotsite/main/trashmagic/qrcode.png)
 
+![](https://raw.githubusercontent.com/LafeLabs/colfaxdotsite/main/trashmagic/qrcode-github.png)
 
 # [Trash Magic Squares](https://github.com/lafelabs/squares)
 

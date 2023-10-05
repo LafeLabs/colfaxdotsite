@@ -2,6 +2,7 @@
     "html": [
         "QNS-spectra.html",
         "README.md",
+        "colfaxdotsite.html",
         "coth.html",
         "cubeworld.html",
         "fft2svg.html",
